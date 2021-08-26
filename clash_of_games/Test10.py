@@ -22,7 +22,6 @@ for i in range(n):
     else:
        r+= chr(ord(x)%ord(end))
        x= chr(ord(x)+1)
-
 print(r)
 
 # Write an answer using print
