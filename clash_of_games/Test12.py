@@ -14,7 +14,7 @@ for i in range(length):
         status="Tall"
     elif x=="F" and (status=="Small" or status=="Tall"):
         status="Overpowered"
-    elif x==""
+
 
 
 
