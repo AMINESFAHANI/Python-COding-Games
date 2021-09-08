@@ -22,6 +22,8 @@ public class sortedArrayToBST {
         node.right = helper(num, mid + 1, high);
         return node;
     }
+ 
+
     public static void main(String args[]){
         int[] num = {1,2,3,4,5,6,7,8};
         sortedArrayToBST Bst = new sortedArrayToBST();
