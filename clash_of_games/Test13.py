@@ -1,3 +1,6 @@
 
-s="amin"
-print(s.count("a"))
+
+
+s=bin(7)
+print(s)
+print(int(s,2))
